@@ -1,5 +1,9 @@
 package com.azhar.table.model;
 
+/**
+ * Created by Azhar Rivaldi on 03/11/2019.
+ */
+
 public class MovieModel {
     private int rank;
     private String movieName;

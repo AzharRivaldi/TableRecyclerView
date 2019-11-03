@@ -13,6 +13,10 @@ import com.azhar.table.model.MovieModel;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * Created by Azhar Rivaldi on 03/11/2019.
+ */
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
